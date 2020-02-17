@@ -27,6 +27,7 @@ public class Main {
 
         List<String> arrayList = new ArrayList<>();
         arrayList.add("yasuo");
+
         arrayList.add("talon");
         arrayList.add("katarina");
         arrayList.add("sett");
